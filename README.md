@@ -22,7 +22,8 @@ This project showcases beautiful hiking locations with images and clean styling.
 ## 📸 Website Preview
 
 ### 🏔️ Homepage
-![Screenshot 1](Screenshot/screenshot%201.png)
+![Screenshot 1](https://raw.githubusercontent.com/davevaidehi/HikeIt/main/Screenshot/screenshot%201.png
+)
 
 ---
 
@@ -37,6 +38,7 @@ This project showcases beautiful hiking locations with images and clean styling.
 ---
 
 ## 📁 Project Structure
+
 
 
 
