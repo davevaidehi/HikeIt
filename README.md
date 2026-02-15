@@ -1,7 +1,6 @@
 # 🌄 HikeIt
 
-HikeIt is a simple and responsive hiking-themed website built using HTML and CSS.  
-This project showcases beautiful hiking locations with images and clean styling.
+HikeIt is a simple and responsive hiking-themed website built using HTML and CSS.
 
 ---
 
@@ -22,23 +21,19 @@ This project showcases beautiful hiking locations with images and clean styling.
 ## 📸 Website Preview
 
 ### 🏔️ Homepage
-![Screenshot 1](https://raw.githubusercontent.com/davevaidehi/HikeIt/main/Screenshot/screenshot%201.png
-)
+![Homepage](screenshots/screenshot1.png)
 
 ---
 
 ### 🌿 Section View
-![Screenshot 2](Screenshot/screenshot%202.png)
+![Section](screenshots/screenshot2.png)
 
 ---
 
-### 🌄 Image Gallery
-![Screenshot 3](Screenshot/screenshot%203.png)
+### 🌄 Gallery View
+![Gallery](screenshots/screenshot3.png)
 
 ---
 
 ## 📁 Project Structure
-
-
-
 
