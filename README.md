@@ -22,19 +22,20 @@ This project showcases beautiful hiking locations with images and clean styling.
 ## 📸 Website Preview
 
 ### 🏔️ Homepage
-![Homepage](Screenshot/Screenshot%202026-02-15%20165019.png)
+![Homepage](Screenshot/Screenshot%201.png)
 
 ---
 
 ### 🌿 Section View
-![Section](Screenshot/Screenshot%202026-02-15%20165044.png)
+![Section](Screenshot/Screenshot%202.png)
 
 ---
 
 ### 🌄 Image Gallery
-![Gallery](Screenshot/Screenshot%202026-02-15%20165104.png)
+![Gallery](Screenshot/Screenshot%202026-02-15%203.png)
 
 ---
 
 ## 📁 Project Structure
+
 
